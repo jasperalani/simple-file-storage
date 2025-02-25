@@ -1,5 +1,5 @@
 ## simple-file-storage
-File Storage and Retrieval API written in Go.
+File storage and retrieval API written in Go.
 Currently configured to allow audio files but can be changed to anything.
 
 ### Software Requirements
